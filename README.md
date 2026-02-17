@@ -1,3 +1,5 @@
+***Credit to Silvris for the original QuickBMS scripts and Random Talking Bush on TSR for corrected code.***
+
 # AoSX-Texture-Extraction
 QuickBMS script and Noesis plugin for extracting and converting textures from Acceleration of Suguri X-Edition
 
