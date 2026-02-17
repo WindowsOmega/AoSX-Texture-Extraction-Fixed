@@ -1,5 +1,5 @@
 endian little
-comtype mslzss
+comtype lzss "12 4 2 0 0"
 append
 get Filesize asize
 idstring "LGM\x00"
